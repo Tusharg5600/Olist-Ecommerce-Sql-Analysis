@@ -194,9 +194,9 @@ olist-ecommerce-sql-analysis/
 
 I'm Tushar — a BCA graduate based in Delhi NCR, currently building my data analyst portfolio. This is my first end-to-end project and I built everything in it from scratch.
 
-**Skills:** SQL · PostgreSQL · Python · Pandas · Plotly · PowerBI · Excel
+**Skills:** SQL · PostgreSQL · Python · Pandas · Plotly · Scikit-learn · PowerBI · Excel
 
-📎 [LinkedIn](https://linkedin.com) · [GitHub](https://github.com)
+📎 [LinkedIn](www.linkedin.com/in/tusharpassinate) · [GitHub](https://github.com/Tusharg5600)
 
 ---
 

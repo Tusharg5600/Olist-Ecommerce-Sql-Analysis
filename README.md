@@ -35,7 +35,7 @@ A **40% drop in review scores** just from being late. Not product quality. Not p
 
 7,700 orders were late. That's 8% of all delivered orders leaving reviews that look like this — and those reviews are public, permanent, and hurting future sales.
 
-![Impact of Late Deliveries on Customer Review Scores](visuals/delivery_vs_reviews.png)
+![Impact of Late Deliveries on Customer Review Scores](delivery_vs_reviews.png)
 
 ---
 
@@ -51,7 +51,7 @@ When I looked at freight cost as a percentage of product price across categories
 
 Computers actually cost more to ship in absolute terms — but at 4.4% of product price, it barely matters. Furniture at **37%** is a different problem entirely. For every R$100 sofa sold, R$37 is going to the courier.
 
-![Freight Cost as % of Product Price by Category](visuals/freight_by_category.png)
+![Freight Cost as % of Product Price by Category](freight_by_category.png)
 
 ---
 
@@ -61,7 +61,7 @@ The revenue chart tells a clear story: Olist went from a small player to serious
 
 That November 2017 spike? That's Black Friday in Brazil. Revenue hit R$1.15M that month — the highest point in the dataset.
 
-![Olist Monthly Revenue Trend 2017–2018](visuals/monthly_revenue.png)
+![Olist Monthly Revenue Trend 2017–2018](monthly_revenue.png)
 
 ---
 

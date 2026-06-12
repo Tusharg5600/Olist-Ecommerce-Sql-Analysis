@@ -1,5 +1,3 @@
-<img width="700" height="500" alt="delivery_vs_reviews" src="https://github.com/user-attachments/assets/37ae65e5-0669-4907-9c48-0836a2098020" /># Olist E-Commerce Data Analysis
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18-blue?logo=postgresql)
 ![Python](https://img.shields.io/badge/Python-3.13-green?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-2.0-purple?logo=pandas)

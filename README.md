@@ -196,7 +196,7 @@ I'm Tushar — a BCA graduate based in Delhi NCR, currently building my data ana
 
 **Skills:** SQL · PostgreSQL · Python · Pandas · Plotly · Scikit-learn · PowerBI · Excel
 
-📎 [LinkedIn](www.linkedin.com/in/tusharpassinate) · [GitHub](https://github.com/Tusharg5600)
+📎 [LinkedIn](https://www.linkedin.com/in/tusharpassinate) · [GitHub](https://github.com/Tusharg5600)
 
 ---
 
